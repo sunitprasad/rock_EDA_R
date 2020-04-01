@@ -1,0 +1,201 @@
+Date_Ordered,Order_Code,first_name,gender,Brand,Size,Color,Design,Price_USD,Delivery_status,Store_Loc
+2019-11-01,MOR_SS80,Lorena,F,BUCK,S,indigo,stripes,15.19,order received,West Virginia
+2019-07-19,ILST_CC75,Michael,M,Kent,S,purple,checked,16.18,damaged,Kentucky
+2019-10-21,MOR_SS69,Saoli,F,BUCK,L,black,spiral,16.31,damaged,Georgia
+2019-11-14,MOR_SS93,Kristyn,F,Kent,XXL,white,plain,14.43,delayed,Delaware
+2019-07-02,ILST_CC58,Luis,M,Kent,XL,green,checked,15.81,order received,New Mexico
+2019-05-07,ILST_CC2,Istiaq,M,BUCK,XS,green,diamond,13.45,delayed,New Jersey
+2019-09-07,MOR_SS25,Gabriela,F,BUCK,L,red,diamond,13.02,shipping,New York
+2019-07-11,ILST_CC67,Cartier,M,Kent,XS,red,stripes,15.09,damaged,Idaho
+2019-08-12,ILST_CC99,Eddie,M,Kent,XL,green,diamond,14.48,delayed,North Carolina
+2019-10-20,MOR_SS68,Shukriyya,F,Yolo,S,purple,checked,16.19,shipping,North Dakota
+2019-06-11,ILST_CC37,Kieth,M,Wang,L,red,spiral,15.9,delayed,Michigan
+2019-09-20,MOR_SS38,Tylan,F,BUCK,S,purple,plain,14.28,delivered,Georgia
+2019-09-22,MOR_SS40,Taylor,F,Wang,M,indigo,plain,15.97,order received,Louisiana
+2019-07-15,ILST_CC71,Seth,M,Kent,L,black,spiral,15.3,damaged,California
+2019-05-05,ILST_CC0,Mitchell,M,BLOT,L,purple,checked,13.68,shipping,Kansas
+2019-08-21,MOR_SS8,Chandra,F,Wang,L,purple,spiral,15.98,order received,West Virginia
+2019-07-27,ILST_CC83,Zachary,M,Yolo,L,purple,checked,15.35,shipping,Mississippi
+2019-09-25,MOR_SS43,Heather,F,BUCK,XL,red,checked,13.4,order received,Delaware
+2019-11-12,MOR_SS91,Samantha,F,Wang,XL,white,checked,15.06,shipping,Montana
+2019-11-06,MOR_SS85,Brianna,F,Yolo,S,white,checked,15.47,delayed,Iowa
+2019-05-23,ILST_CC18,David,M,Kent,XL,black,plain,14.82,delivered,Iowa
+2019-07-31,ILST_CC87, Faaiq,M,BUCK,L,indigo,diamond,13.379999999999999,damaged,Ohio
+2019-06-18,ILST_CC44,Joseph,M,BUCK,L,green,plain,15.46,order received,Nebraska
+2019-11-09,MOR_SS88,Savannah,F,BLOT,M,indigo,plain,15.01,shipping,Washington
+2019-09-05,MOR_SS23,Ariana,F,BLOT,XXL,black,plain,14.39,delivered,New Hampshire
+2019-05-16,ILST_CC11,Dakotea,M,Wang,XXL,indigo,checked,13.91,shipping,Washington
+2019-09-06,MOR_SS24,Inaaya,F,BLOT,L,red,diamond,14.57,damaged,Alaska
+2019-07-13,ILST_CC69,Tassawwar,M,BLOT,S,indigo,spiral,15.33,order received,Nevada
+2019-09-11,MOR_SS29,Kaazima,F,BUCK,XL,black,diamond,14.06,damaged,Oklahoma
+2019-07-04,ILST_CC60,Daniel,M,BUCK,M,indigo,plain,14.38,shipping,Illinois
+2019-11-07,MOR_SS86,Corbett,F,BUCK,XS,purple,stripes,15.6,damaged,Iowa
+2019-06-14,ILST_CC40,Ryan,M,Yolo,XL,green,checked,14.77,shipping,Indiana
+2019-10-03,MOR_SS51,Panchali,F,BLOT,M,white,checked,14.63,damaged,Hawaii
+2019-05-09,ILST_CC4,Andrew,M,Kent,XS,red,plain,15.87,delivered,Mississippi
+2019-10-27,MOR_SS75,Caitlin,F,Yolo,XL,purple,stripes,14.6,shipping,Florida
+2019-09-16,MOR_SS34,Frances,F,Yolo,L,white,checked,15.15,order received,New York
+2019-06-30,ILST_CC56,Clifton,M,Yolo,S,black,checked,16.01,damaged,New Hampshire
+2019-11-03,MOR_SS82,Natasha,F,Yolo,XXL,black,spiral,15.29,shipping,Nebraska
+2019-08-23,MOR_SS10,Monica,F,Yolo,XXL,purple,diamond,14.16,shipping,Mississippi
+2019-08-13,MOR_SS0,Ajanma,F,BUCK,XS,purple,stripes,14.9,delayed,Kentucky
+2019-10-01,MOR_SS49,Shailyn,F,BLOT,XS,indigo,spiral,15.19,delayed,New Jersey
+2019-06-12,ILST_CC38,Colen,M,BUCK,M,purple,spiral,14.87,damaged,Nebraska
+2019-05-24,ILST_CC19,David,M,Yolo,L,green,diamond,16.25,delivered,South Carolina
+2019-05-27,ILST_CC22,Brandon,M,Yolo,M,red,checked,15.56,damaged,Arkansas
+2019-06-01,ILST_CC27,Wyatt,M,Wang,XS,purple,plain,14.92,damaged,West Virginia
+2019-07-03,ILST_CC59,Emmyth,M,Kent,XS,white,checked,15.49,order received,Maryland
+2019-08-04,ILST_CC91,Michael,M,BLOT,L,black,diamond,14.57,delayed,Hawaii
+2019-10-17,MOR_SS65,Veronica,F,BUCK,L,indigo,spiral,13.61,delayed,Wyoming
+2019-08-11,ILST_CC98,Justin,M,BLOT,XS,green,checked,15.78,shipping,Maine
+2019-10-19,MOR_SS67,Kheyanna,F,Wang,M,white,plain,14.78,damaged,Nevada
+2019-07-23,ILST_CC79,Tyler,M,BLOT,XL,white,spiral,15.17,order received,Connecticut
+2019-08-31,MOR_SS18,Bethany,F,BUCK,XS,black,diamond,13.96,shipping,Ohio
+2019-05-21,ILST_CC16,Robert,M,Yolo,XS,purple,checked,15.38,shipping,Oregon
+2019-09-13,MOR_SS31,Misty,F,BLOT,L,red,diamond,14.38,delivered,Connecticut
+2019-08-27,MOR_SS14,Evelyn,F,Wang,XS,green,spiral,14.64,order received,North Dakota
+2019-10-09,MOR_SS57,Gabriella,F,Kent,XS,purple,spiral,14.03,delivered,Kansas
+2019-08-01,ILST_CC88,Zayne,M,Wang,XL,purple,checked,14.56,delayed,Arkansas
+2019-08-16,MOR_SS3,Caitlin,F,Kent,M,white,diamond,15.21,shipping,Wisconsin
+2019-10-08,MOR_SS56,Almaasa,F,Yolo,L,black,stripes,15.34,delivered,Montana
+2019-07-05,ILST_CC61,Reyez,M,Wang,XXL,white,plain,15.21,delivered,Colorado
+2019-06-28,ILST_CC54,Muhammad,M,Wang,XS,indigo,spiral,15.55,delivered,Missouri
+2019-10-23,MOR_SS71,Elizabeth,F,BUCK,L,green,checked,14.42,shipping,Washington
+2019-08-02,ILST_CC89,Lee,M,BUCK,XL,purple,stripes,15.32,order received,Texas
+2019-10-25,MOR_SS73,Alihah,F,Wang,M,black,spiral,14.99,delivered,Iowa
+2019-11-20,MOR_SS99,Brooklynn,F,Yolo,XS,red,checked,14.47,order received,Maine
+2019-09-01,MOR_SS19,Mariah,F,Kent,S,red,stripes,15.1,order received,Arizona
+2019-06-08,ILST_CC34,Jonathan,M,Wang,L,indigo,diamond,14.79,damaged,Oregon
+2019-08-25,MOR_SS12,Robyn,F,Kent,M,white,stripes,14.84,shipping,Ohio
+2019-06-07,ILST_CC33,Nico,M,Yolo,XXL,red,stripes,13.5,damaged,Maine
+2019-05-30,ILST_CC25,Joel,M,Kent,XS,white,diamond,15.7,damaged,North Dakota
+2019-07-08,ILST_CC64,Matthew,M,Kent,XS,red,diamond,13.5,damaged,Alaska
+2019-06-15,ILST_CC41,Hilmi,M,Yolo,M,red,plain,15.11,damaged,Connecticut
+2019-06-05,ILST_CC31,Dakota,M,Yolo,XXL,indigo,stripes,15.73,delayed,Delaware
+2019-10-26,MOR_SS74,Janely,F,Wang,L,black,diamond,14.53,delayed,Montana
+2019-05-10,ILST_CC5,Kajtshiab,M,Kent,L,green,plain,14.56,delayed,New Hampshire
+2019-09-10,MOR_SS28,Ebany,F,Yolo,M,black,stripes,15.77,delayed,Alabama
+2019-08-14,MOR_SS1,Simcha,F,BUCK,M,green,plain,15.73,shipping,South Carolina
+2019-07-29,ILST_CC85,Abdul Hakeem,M,BUCK,L,green,spiral,16.2,delayed,Louisiana
+2019-06-23,ILST_CC49,Eric,M,Wang,XL,purple,spiral,13.99,delayed,New Hampshire
+2019-10-10,MOR_SS58,Lillian,F,BLOT,M,black,spiral,17.11,delivered,California
+2019-11-16,MOR_SS95,Simonita,F,BLOT,L,purple,stripes,15.12,damaged,New Mexico
+2019-09-23,MOR_SS41,Heidi,F,Kent,L,red,stripes,15.74,order received,Arizona
+2019-05-31,ILST_CC26,Fernando,M,Kent,XXL,red,plain,14.46,damaged,Washington
+2019-06-13,ILST_CC39,Donald,M,BLOT,M,red,spiral,15.65,order received,Alaska
+2019-11-17,MOR_SS96,Tyra,F,Wang,XS,black,checked,17.47,order received,Indiana
+2019-10-24,MOR_SS72,Jennifer,F,BUCK,XXL,red,plain,13.26,delivered,Wisconsin
+2019-11-08,MOR_SS87,Alisa,F,Wang,XL,green,plain,14.9,damaged,Mississippi
+2019-05-29,ILST_CC24,Kaine,M,BLOT,XXL,indigo,spiral,14.88,order received,Rhode Island
+2019-07-06,ILST_CC62,Nicolas,M,BLOT,L,purple,checked,13.370000000000001,delivered,Hawaii
+2019-09-14,MOR_SS32,Enjoli,F,Yolo,XXL,white,spiral,15.48,delayed,Colorado
+2019-07-18,ILST_CC74,Akira,M,BLOT,S,black,diamond,13.79,order received,Minnesota
+2019-05-06,ILST_CC1,Grant,M,Wang,XXL,indigo,diamond,14.9,damaged,Kentucky
+2019-09-19,MOR_SS37,Andrea,F,Wang,XXL,purple,stripes,14.17,order received,West Virginia
+2019-05-18,ILST_CC13,Abbaad,M,Kent,S,green,plain,16.02,delivered,Ohio
+2019-09-17,MOR_SS35,Ebonnie,F,Kent,L,red,plain,16.27,delivered,Mississippi
+2019-07-28,ILST_CC84,Marquise,M,BUCK,M,red,spiral,14.95,delayed,Kansas
+2019-10-15,MOR_SS63,Raheema,F,BLOT,XL,white,plain,13.72,damaged,Kansas
+2019-11-19,MOR_SS98,Aaliyah,F,Kent,S,white,diamond,14.42,delivered,Nevada
+2019-06-03,ILST_CC29,Fikri,M,Kent,M,black,plain,16.39,delayed,Maryland
+2019-07-09,ILST_CC65,Marco,M,Kent,L,indigo,diamond,16.85,delivered,Minnesota
+2019-06-25,ILST_CC51,Maaiz,M,Wang,XS,black,plain,13.77,delayed,North Dakota
+2019-09-26,MOR_SS44,Jessica,F,Kent,L,white,stripes,15.27,order received,New York
+2019-11-18,MOR_SS97,Elise,F,Wang,XL,purple,diamond,14.59,order received,Montana
+2019-07-30,ILST_CC86,Pedro,M,Kent,L,green,diamond,15.21,order received,Georgia
+2019-08-15,MOR_SS2,Laura,F,BLOT,XXL,purple,diamond,13.15,shipping,Alaska
+2019-11-04,MOR_SS83,Desiree,F,Kent,M,red,stripes,16.07,shipping,Arkansas
+2019-06-06,ILST_CC32,Joshua,M,BUCK,XXL,purple,diamond,15.87,order received,Washington
+2019-06-10,ILST_CC36,Qaaid,M,BUCK,XS,purple,spiral,13.66,shipping,Louisiana
+2019-05-19,ILST_CC14,Daniel,M,Kent,M,purple,stripes,14.11,damaged,West Virginia
+2019-06-02,ILST_CC28,Herman,M,Kent,XL,white,diamond,14.86,damaged,Florida
+2019-07-12,ILST_CC68,Andrey,M,Kent,S,red,diamond,16.66,damaged,South Dakota
+2019-10-13,MOR_SS61,Shelen,F,BLOT,XS,white,spiral,14.53,order received,Mississippi
+2019-07-21,ILST_CC77,Dyllon,M,BUCK,XL,indigo,diamond,17.88,shipping,Mississippi
+2019-10-04,MOR_SS52,Melissa,F,Kent,L,green,spiral,13.51,shipping,Idaho
+2019-05-14,ILST_CC9,Tyrelle,M,Yolo,S,purple,checked,14.06,shipping,Colorado
+2019-11-02,MOR_SS81,Ruwaida,F,BUCK,XL,indigo,stripes,14.4,shipping,North Dakota
+2019-05-22,ILST_CC17,Keynon,M,BLOT,S,white,checked,15.14,delayed,New York
+2019-08-03,ILST_CC90,Robert,M,Yolo,XS,white,spiral,15.64,damaged,Virginia
+2019-09-09,MOR_SS27,Kyleigh,F,BLOT,M,green,checked,14.46,order received,Hawaii
+2019-08-07,ILST_CC94,Luis,M,Wang,XL,white,stripes,13.92,delayed,Arkansas
+2019-10-12,MOR_SS60,Sierrah,F,Yolo,S,black,diamond,15.39,damaged,Pennsylvania
+2019-08-28,MOR_SS15, Sakeena,F,BUCK,XL,indigo,spiral,13.72,order received,New Jersey
+2019-11-13,MOR_SS92,Natalie,F,Wang,M,black,diamond,15.09,damaged,Ohio
+2019-08-19,MOR_SS6,Elaine,F,BUCK,XL,indigo,stripes,15.88,shipping,Arizona
+2019-07-26,ILST_CC82,Clayton,M,Wang,L,red,stripes,15.59,shipping,Florida
+2019-11-11,MOR_SS90,Amy,F,BLOT,M,red,checked,14.64,damaged,Idaho
+2019-05-08,ILST_CC3,Kyler,M,Wang,XXL,white,plain,15.96,delivered,North Carolina
+2019-10-18,MOR_SS66,Jordan,F,Kent,XS,white,plain,13.54,shipping,Washington
+2019-11-05,MOR_SS84,Lexus,F,BUCK,XS,purple,checked,16.92,delivered,Wisconsin
+2019-09-12,MOR_SS30,Mystic,F,Wang,XXL,white,spiral,14.4,damaged,North Carolina
+2019-07-01,ILST_CC57,Shujaa,M,BUCK,S,white,checked,14.13,delayed,New Jersey
+2019-06-21,ILST_CC47,Andres,M,BLOT,S,white,plain,14.46,delayed,Delaware
+2019-08-29,MOR_SS16,Aranda,F,Kent,L,black,plain,14.87,delayed,Oklahoma
+2019-08-18,MOR_SS5,Hilmiyya,F,BUCK,XL,green,stripes,15.12,order received,Montana
+2019-05-15,ILST_CC10,Jonathan,M,Yolo,XS,indigo,spiral,16.05,delivered,Utah
+2019-09-03,MOR_SS21,Humaira,F,Wang,XS,purple,stripes,15.54,delivered,North Carolina
+2019-05-17,ILST_CC12,Delorian,M,Kent,XS,green,plain,15.61,damaged,Washington
+2019-08-09,ILST_CC96,Ahron,M,BUCK,S,indigo,diamond,14.83,damaged,Michigan
+2019-09-02,MOR_SS20,Sha'Dae,F,BLOT,XS,green,stripes,14.07,delivered,Oregon
+2019-08-30,MOR_SS17,Savannah,F,Wang,S,white,plain,14.97,order received,Vermont
+2019-05-12,ILST_CC7,Luis,M,Kent,XS,indigo,stripes,15.34,shipping,California
+2019-10-28,MOR_SS76,Rockelle,F,Kent,XL,indigo,spiral,16.26,shipping,Wisconsin
+2019-08-06,ILST_CC93,Dajaun,M,Wang,S,purple,diamond,15.17,damaged,South Carolina
+2019-11-10,MOR_SS89,Sarah,F,Wang,L,red,diamond,14.62,delivered,New Jersey
+2019-07-07,ILST_CC63,Nathan,M,BLOT,S,indigo,spiral,14.88,order received,New Jersey
+2019-09-18,MOR_SS36,Margaret,F,BUCK,S,black,checked,15.1,damaged,Utah
+2019-07-10,ILST_CC66,Amru,M,Yolo,L,green,checked,15.32,damaged,Arkansas
+2019-07-25,ILST_CC81,Alexis,M,Yolo,M,white,diamond,13.76,shipping,Arkansas
+2019-09-04,MOR_SS22,Sindy,F,BUCK,M,indigo,spiral,15.5,shipping,North Carolina
+2019-08-24,MOR_SS11,Roberta,F,Yolo,XXL,red,spiral,14.77,delayed,West Virginia
+2019-10-22,MOR_SS70,Valerie,F,BLOT,XXL,indigo,checked,14.41,delayed,Tennessee
+2019-06-27,ILST_CC53,Carzell,M,Wang,M,indigo,stripes,14.56,delayed,Hawaii
+2019-09-24,MOR_SS42,Maelynn,F,BUCK,XL,black,plain,13.6,damaged,Mississippi
+2019-09-27,MOR_SS45,Aatika,F,Yolo,M,white,spiral,14.26,shipping,Tennessee
+2019-10-06,MOR_SS54,Tayler,F,Kent,XXL,purple,checked,14.0,delayed,Oregon
+2019-06-26,ILST_CC52,Deshaun,M,Wang,XXL,red,plain,13.59,delayed,Maine
+2019-09-15,MOR_SS33,Menoog,F,Kent,XS,black,plain,16.05,delayed,North Dakota
+2019-05-11,ILST_CC6,Nickolas,M,BLOT,XL,black,diamond,16.66,delayed,Florida
+2019-08-20,MOR_SS7,Ronnisha,F,Kent,M,indigo,spiral,15.06,damaged,Wyoming
+2019-07-17,ILST_CC73,Rashawn,M,Kent,XXL,red,checked,16.09,damaged,Rhode Island
+2019-06-22,ILST_CC48,Ian,M,Yolo,XXL,indigo,plain,15.62,delayed,Virginia
+2019-10-31,MOR_SS79,Rebecca,F,BUCK,XXL,white,checked,13.73,damaged,Virginia
+2019-10-30,MOR_SS78,Rayyana,F,Wang,XS,indigo,plain,15.28,delivered,Wyoming
+2019-08-22,MOR_SS9,Samantha,F,Wang,XS,white,diamond,17.25,delayed,Idaho
+2019-10-29,MOR_SS77,Hanna,F,BLOT,L,red,plain,15.25,delayed,South Dakota
+2019-06-17,ILST_CC43,Malik,M,Wang,XXL,purple,spiral,14.92,damaged,Minnesota
+2019-05-13,ILST_CC8,Alejandro,M,Wang,XS,black,stripes,15.03,shipping,Arizona
+2019-06-09,ILST_CC35,Amaanullah,M,Kent,L,purple,spiral,14.62,order received,North Carolina
+2019-09-08,MOR_SS26,Micah,F,BUCK,XS,red,spiral,15.04,shipping,New Mexico
+2019-08-17,MOR_SS4,Fikriyya,F,Yolo,L,green,plain,15.96,delivered,Ohio
+2019-07-16,ILST_CC72,Patrick,M,Wang,M,indigo,plain,15.18,damaged,Nevada
+2019-07-14,ILST_CC70,Pedro,M,Wang,XXL,purple,diamond,14.24,shipping,Utah
+2019-06-19,ILST_CC45,Payton,M,Yolo,XS,black,spiral,14.03,delayed,Nevada
+2019-10-05,MOR_SS53,Thuy,F,BLOT,M,purple,plain,15.58,shipping,Nevada
+2019-11-15,MOR_SS94,Zubaida,F,Kent,XXL,black,plain,15.74,shipping,South Dakota
+2019-07-24,ILST_CC80,Brandon,M,BLOT,L,white,spiral,16.33,delayed,Virginia
+2019-10-14,MOR_SS62,Juhaina,F,Kent,S,white,checked,13.73,order received,Colorado
+2019-05-26,ILST_CC21,Zaamil,M,Wang,L,green,stripes,13.1,order received,Utah
+2019-06-16,ILST_CC42,Christian,M,BUCK,XS,red,spiral,16.51,order received,South Dakota
+2019-10-07,MOR_SS55,Brianna,F,Wang,M,green,checked,14.8,shipping,Pennsylvania
+2019-09-28,MOR_SS46,Sydney,F,Wang,XS,purple,checked,16.03,order received,Pennsylvania
+2019-07-20,ILST_CC76,Cody,M,Wang,S,green,spiral,14.74,delivered,Georgia
+2019-09-29,MOR_SS47,Andrea,F,BUCK,XXL,white,plain,14.71,delivered,Utah
+2019-05-28,ILST_CC23,Steven,M,Kent,S,black,spiral,14.17,order received,Wisconsin
+2019-06-04,ILST_CC30,Samuel,M,Kent,S,black,spiral,14.43,order received,Louisiana
+2019-10-16,MOR_SS64,Ummu Kulthoom,F,BUCK,XL,white,spiral,15.11,delayed,Mississippi
+2019-08-10,ILST_CC97,Jarrett,M,BLOT,XS,purple,checked,13.61,order received,Mississippi
+2019-05-20,ILST_CC15,Chandler,M,Yolo,S,green,checked,15.19,damaged,South Dakota
+2019-09-30,MOR_SS48,Tera,F,Yolo,S,green,plain,14.02,shipping,Louisiana
+2019-06-20,ILST_CC46,Dylan,M,Yolo,M,black,spiral,14.21,damaged,Louisiana
+2019-08-26,MOR_SS13,Mayyaada,F,Wang,M,green,diamond,15.03,shipping,Connecticut
+2019-08-08,ILST_CC95,Carlos,M,Kent,XS,red,checked,12.79,order received,Idaho
+2019-10-11,MOR_SS59,Denise,F,Wang,XXL,indigo,plain,14.86,damaged,Missouri
+2019-06-24,ILST_CC50,Naadir,M,BUCK,S,green,stripes,15.08,shipping,Nevada
+2019-06-29,ILST_CC55,Brindan,M,BUCK,M,white,diamond,14.38,delayed,New Mexico
+2019-05-25,ILST_CC20,Chhun,M,BUCK,S,white,plain,14.24,shipping,Oregon
+2019-08-05,ILST_CC92,Ammaar,M,Kent,XL,red,spiral,14.41,shipping,Nevada
+2019-09-21,MOR_SS39,Mariah,F,Kent,M,green,plain,15.44,order received,Iowa
+2019-10-02,MOR_SS50,Hujja,F,Yolo,M,white,spiral,14.77,order received,Minnesota
+2019-07-22,ILST_CC78,Jaime,M,Yolo,S,purple,checked,16.13,damaged,California
